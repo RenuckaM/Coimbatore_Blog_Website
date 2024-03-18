@@ -41,7 +41,7 @@ For live Demo [Chip in!](https://renuckam.github.io/Coimbatore_Blog_Website/)
    
        `index.html`
 
-**Explore and Customize:**
+5. **Explore and Customize:**
 Feel free to explore the project files and customize the content, styling, and features to suit your preferences and showcase the beauty of Coimbatore.
 
 ## Contributions:
