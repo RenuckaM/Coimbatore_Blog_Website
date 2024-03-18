@@ -21,7 +21,7 @@ Welcome to the Coimbatore Blog Website project! This project aims to create a vi
 ## Get Started:
 
 1. **Clone the Repository:** 
-         git clone https://github.com/your-username/coimbatore-blog.git
+                 git clone https://github.com/your-username/coimbatore-blog.git
 
 
 2. **Navigate to the Project Directory:**
