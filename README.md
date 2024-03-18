@@ -2,6 +2,10 @@
 
 Welcome to the Coimbatore Blog Website project! This project aims to create a visually appealing and informative blog platform dedicated to showcasing the beauty, culture, and lifestyle of Coimbatore. Utilizing HTML, CSS, and Bootstrap, we will craft an engaging and catchy website that captures the essence of this vibrant city in South India.
 
+## Demo:
+
+For live Demo [!https://renuckam.github.io/Coimbatore_Blog_Website/](Click here!)
+
 ## Features:
 
 1. **City Highlights:** Explore the key attractions, landmarks, and events that make Coimbatore unique. From iconic landmarks to hidden gems, our blog will provide insights into what makes Coimbatore a must-visit destination.
