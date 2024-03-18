@@ -4,7 +4,7 @@ Welcome to the Coimbatore Blog Website project! This project aims to create a vi
 
 ## Demo:
 
-For live Demo [!https://renuckam.github.io/Coimbatore_Blog_Website/](Click here!)
+For live Demo [!chip in](https://renuckam.github.io/Coimbatore_Blog_Website/)
 
 ## Features:
 
