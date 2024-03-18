@@ -19,7 +19,9 @@ For live Demo [Chip in!](https://renuckam.github.io/Coimbatore_Blog_Website/)
 ## Technologies Used:
 
 **HTML:** The foundation of our website, providing the structure and content layout.
+
 **CSS:** Styling our website to enhance visual appeal and user experience.
+
 **Bootstrap:** Leveraging Bootstrap's responsive design components and utilities to ensure compatibility across devices and screen sizes.
 
 ## Get Started:
