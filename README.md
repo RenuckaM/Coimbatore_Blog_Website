@@ -14,21 +14,27 @@ Welcome to the Coimbatore Blog Website project! This project aims to create a vi
 
 ## Technologies Used:
 
-- **HTML:** The foundation of our website, providing the structure and content layout.
-- **CSS:** Styling our website to enhance visual appeal and user experience.
-- **Bootstrap:** Leveraging Bootstrap's responsive design components and utilities to ensure compatibility across devices and screen sizes.
+**HTML:** The foundation of our website, providing the structure and content layout.
+**CSS:** Styling our website to enhance visual appeal and user experience.
+**Bootstrap:** Leveraging Bootstrap's responsive design components and utilities to ensure compatibility across devices and screen sizes.
 
 ## Get Started:
 
 1. **Clone the Repository:**
+
+
          https://github.com/your-username/coimbatore-blog.git
 
 
 3. **Navigate to the Project Directory:**
+
+   
          cd coimbatore-blog
 
 
 4. **Open the HTML file in your Browser:**
+
+   
        `index.html`
 
 **Explore and Customize:**
