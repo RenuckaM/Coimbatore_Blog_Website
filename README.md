@@ -20,16 +20,16 @@ Welcome to the Coimbatore Blog Website project! This project aims to create a vi
 
 ## Get Started:
 
-1. **Clone the Repository:** 
-    https://github.com/your-username/coimbatore-blog.git
+1. **Clone the Repository:**
+         https://github.com/your-username/coimbatore-blog.git
 
 
-2. **Navigate to the Project Directory:**
+3. **Navigate to the Project Directory:**
          cd coimbatore-blog
 
 
-3. **Open the HTML file in your Browser:**
-      `index.html`
+4. **Open the HTML file in your Browser:**
+       `index.html`
 
 **Explore and Customize:**
 Feel free to explore the project files and customize the content, styling, and features to suit your preferences and showcase the beauty of Coimbatore.
